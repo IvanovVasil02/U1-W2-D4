@@ -10,12 +10,12 @@ REGOLE
 */
 
 /* 
-const area = function (a, b) {
-	return a + b;
+const area = function (li, l2) {
+	return l1 * l2;
 };
 
 console.log("ESERCIZIO 1");
-console.log(area(11, 12)); 
+console.log(area(5, 7)); 
 */
 
 /* ESERCIZIO 2
